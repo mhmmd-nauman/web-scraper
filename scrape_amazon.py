@@ -21,7 +21,7 @@ qcount = 0
 products=[] #List to store name of the product
 prices=[] #List to store price of the product
 ratings=[] #List to store ratings of the product
-no_pages = 20
+no_pages = 1
 
 
 def get_data(pageNo,q):  
